@@ -1,39 +1,24 @@
 {
   "todos": [
     {
-      "todo": "월",
-      "checked": false,
+      "todo": "운동하기",
+      "checked": true,
       "id": 1
     },
     {
-      "todo": "화",
+      "todo": "React공부",
       "checked": false,
       "id": 2
     },
     {
-      "todo": "수",
+      "todo": "탄수화물줄이기",
       "checked": false,
-      "id": 3
-    },
-    {
-      "todo": "목",
-      "checked": true,
       "id": 4
     },
     {
-      "todo": "금",
-      "checked": true,
+      "todo": "하하호호호호호",
+      "checked": false,
       "id": 5
-    },
-    {
-      "todo": "토",
-      "checked": false,
-      "id": 6
-    },
-    {
-      "todo": "일",
-      "checked": false,
-      "id": 7
     }
   ],
   "users": [
