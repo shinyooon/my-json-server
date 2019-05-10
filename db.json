@@ -1,20 +1,39 @@
 {
   "todos": [
     {
-      "id": 1,
-      "todo": "html"
+      "todo": "월",
+      "checked": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "todo": "css"
+      "todo": "화",
+      "checked": false,
+      "id": 2
     },
     {
-      "id": 3,
-      "todo": "javascript"
+      "todo": "수",
+      "checked": false,
+      "id": 3
     },
     {
-      "todo": "react",
+      "todo": "목",
+      "checked": true,
       "id": 4
+    },
+    {
+      "todo": "금",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "todo": "토",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "todo": "일",
+      "checked": false,
+      "id": 7
     }
   ],
   "users": [
